@@ -36,26 +36,19 @@ Environment Variable Support: Uses .env for config, secrets, and SMTP credential
 
 ⚙️ Installation
 1. Clone the Repository
-
-bash
-نسخ
-تحرير
 git clone https://github.com/amrashraf15/MERN-AUTH.git
 cd MERN-AUTH
-2. Install Backend Dependencies
 
-bash
-نسخ
-تحرير
+2. Install Backend Dependencies
 cd backend
 npm install
 3. Set Up Environment Variables
 Create a .env file in backend/:
 
 env
-نسخ
-تحرير
-PORT=5000
+
+
+PORT=5001
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 CLIENT_URL=http://localhost:5173
@@ -63,24 +56,18 @@ EMAIL_USER=your_mailtrap_username
 EMAIL_PASS=your_mailtrap_password
 4. Start the Backend Server
 
-bash
-نسخ
-تحرير
+
+
+
 npm run start
 Runs on http://localhost:5000
 
 5. Install Frontend Dependencies
 
-bash
-نسخ
-تحرير
 cd ../frontend
 npm install
-6. Start the Frontend
 
-bash
-نسخ
-تحرير
+6. Start the Frontend
 npm run dev
 Runs on http://localhost:5173
 
