@@ -12,9 +12,6 @@ A secure, full-featured User Authentication System built with Node.js, Express, 
 - [Features](#-features)
 - [BuiltWith](#-builtwith)
 - [Installation](#-installation)
-- [Usage](#-usage)
-- [Configuration](#-configuration)
-- [Examples](#-examples)
 - [Contact](#-contact)
 - [Credits](#-credits)
 
@@ -97,6 +94,15 @@ This project uses the following major technologies:
        cd ../frontend
         npm install
       ```
+---
+ ## 📬 Contact
+
+- **Name**: Amr Ashraf  
+- **Email**: [amrashraf1592@gmail.com](mailto:amrashraf1592@gmail.com)  
+- **GitHub**: [@amrashraf15](https://github.com/amrashraf15)  
+- **Project Link**: [MERN-AUTH](https://github.com/amrashraf15/MERN-AUTH)
+
+---
 
 
 
