@@ -49,6 +49,23 @@ This project is a secure and production-ready authentication system built using:
 - ✅ **Environment Configuration**: Fully configurable via `.env` variables
 
 ---
+## 🛠 Built With
+
+This project uses the following major technologies:
+
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zotero&logoColor=white)
+- ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+- ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+- ![Mailtrap](https://img.shields.io/badge/Mailtrap-0091EA?style=for-the-badge&logo=maildotru&logoColor=white)
+- ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
+- ![bcryptjs](https://img.shields.io/badge/bcryptjs-512BD4?style=for-the-badge&logo=auth0&logoColor=white)
+
+---
+
 
 ## ⚙️ Installation
 
@@ -58,18 +75,7 @@ This project is a secure and production-ready authentication system built using:
 git clone https://github.com/amrashraf15/MERN-AUTH.git
 cd MERN-AUTH
 
-### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
 
 
