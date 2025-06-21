@@ -68,10 +68,36 @@ This project uses the following major technologies:
 ## ⚙️ Installation
 
 ### 1. Clone the Repository
+   ```sh
+   git clone https://github.com/amrashraf15/MERN-AUTH.git
+    cd MERN-AUTH
+   ```
+2. Install Backend Dependencies
+   ```sh
+   cd backend
+    npm install
+   ```
+3. Set Up Environment Variables
+   ```js
+     PORT=5001
+    MONGODB_URI=your_mongodb_connection_string
+    JWT_SECRET=your_jwt_secret
+    CLIENT_URL=http://localhost:5173
+    EMAIL_USER=your_mailtrap_username
+    EMAIL_PASS=your_mailtrap_password
+   ```
+4. Start the Backend Server
+   ```sh
+   npm run start
+    # Runs on http://localhost:5001
+   ```
+   5. Install Frontend Dependencies
+     ```sh
+       cd ../frontend
+        npm install
+   ```
 
-```bash
-git clone https://github.com/amrashraf15/MERN-AUTH.git
-cd MERN-AUTH
+
 
 
 
