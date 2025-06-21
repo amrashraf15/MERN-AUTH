@@ -99,8 +99,19 @@ This project uses the following major technologies:
 
 - **Name**: Amr Ashraf  
 - **Email**: [amrashraf1592@gmail.com](mailto:amrashraf1592@gmail.com)  
-- **GitHub**: [@amrashraf15](https://github.com/amrashraf15)  
+- **GitHub**: [amrashraf15](https://github.com/amrashraf15)  
 - **Project Link**: [MERN-AUTH](https://github.com/amrashraf15/MERN-AUTH)
+
+---
+
+## 🙏 Credits
+
+This project was heavily inspired by the **MERN Authentication s** on YouTube by [Codesistency](https://www.youtube.com/@Codesistency).
+
+🎥 **Watch the full tutorial here**: [MERN Stack Authentication Series - Codesistency](https://www.youtube.com/watch?v=pmvEgZC55Cg&t=14130s)  
+
+
+A big thanks to Codesistency for creating such an in-depth and easy-to-follow guide!
 
 ---
 
