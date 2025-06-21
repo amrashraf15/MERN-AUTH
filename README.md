@@ -91,11 +91,12 @@ This project uses the following major technologies:
    npm run start
     # Runs on http://localhost:5001
    ```
-   5. Install Frontend Dependencies
+   
+ 5. Install Frontend Dependencies
      ```sh
        cd ../frontend
         npm install
-   ```
+      ```
 
 
 
