@@ -2,7 +2,7 @@
 
 A secure, full-featured User Authentication System built with Node.js, Express, MongoDB, and React. It supports full user workflows including registration with email verification, JWT-based login, and password reset via secure email links.
 
-![Create Account Screenshot](./assets/screenshot-signup.png) <!-- Update path as necessary -->
+![Create Account Screenshot](./assets/createaccount.png) <!-- Update path as necessary -->
 
 ---
 
