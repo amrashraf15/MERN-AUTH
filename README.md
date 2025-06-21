@@ -10,13 +10,11 @@ A secure, full-featured User Authentication System built with Node.js, Express, 
 
 - [Overview](#-overview)
 - [Features](#-features)
+- [BuiltWith](#-builtwith)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [Technologies](#-technologies)
 - [Configuration](#-configuration)
 - [Examples](#-examples)
-- [Contributing](#-contributing)
-- [License](#-license)
 - [Contact](#-contact)
 - [Credits](#-credits)
 
